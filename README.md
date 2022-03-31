@@ -10,3 +10,8 @@ PA实验网站：https://nju-projectn.github.io/ics-pa-gitbook/ics2021/
 
 ---
 
+
+
+#### 其他资源
+
+https://www.youtube.com/watch?v=Z56Jmr9Z34Q&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J/
