@@ -16,11 +16,13 @@
 
 ![image-20220331234923555](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220331234923555.png)
 
-![image-20220331235723557](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220331235723557.png)
-
 #### 常见的命令行工具
 
 ![image-20220331235953382](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220331235953382.png)
+
+#### > 重定向
+
+![image-20220331235723557](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220331235723557.png)
 
 #### UNIX 哲学
 
