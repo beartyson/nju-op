@@ -6,7 +6,15 @@
 
 - 2021秋
 
+#### 先修课
+
+- [Linux 基本常识](https://linux.cn/article-6160-1.html)
+
+- [Linux 入门教程](https://nju-projectn.github.io/ics-pa-gitbook/ics2021/linux.html)
+
 #### `P`rogramming `A`ssignment（NEMU 模拟器）
+
+- 课程网站：http://jyywiki.cn/ICS/2021/
 
 - PA实验网站：https://nju-projectn.github.io/ics-pa-gitbook/ics2021/
 
@@ -49,4 +57,4 @@ fi
 
 #### 其他资源
 
-https://www.youtube.com/watch?v=Z56Jmr9Z34Q&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J/
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
