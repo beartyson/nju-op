@@ -28,6 +28,25 @@
 
 ![image-20220401000153425](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220401000153425.png)
 
+#### The Shell Scripting Language
+
+```sh
+#!/bin/sh
+
+a=1
+b=2
+
+if [ $a != $b ]
+  then
+    echo "a is not equal to b"
+fi
+
+if [ $a > $b ]
+  then
+    echo "no"
+fi
+```
+
 #### 其他资源
 
 https://www.youtube.com/watch?v=Z56Jmr9Z34Q&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J/
