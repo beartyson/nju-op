@@ -12,6 +12,8 @@
 
 - [Linux 入门教程](https://nju-projectn.github.io/ics-pa-gitbook/ics2021/linux.html)
 
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
 #### `P`rogramming `A`ssignment（NEMU 模拟器）
 
 - 课程网站：http://jyywiki.cn/ICS/2021/
@@ -55,6 +57,3 @@ if [ $a > $b ]
 fi
 ```
 
-#### 其他资源
-
-- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
