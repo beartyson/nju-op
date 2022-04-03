@@ -104,3 +104,53 @@ int main() {
   if (true) printf("%d\n", __LINE__);
 }
 ```
+
+#### 妙用 -E 编译选项
+
+> 这种难以用肉眼进行宏展开的源代码，可以用 -E 选项帮助我们进行宏展开
+
+![image-20220403101039458](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220403101039458.png)
+
+#### 加深理解
+
+- 宏展开，通过「复制/粘贴」改变代码的形态
+
+- 反复粘贴，直到没有宏可以展开为止
+
+- X-macros
+
+```c
+#define PRINT(x) puts("Hello, " #x "!");
+#define NAMES(A) \
+	A(Tom) A(Jerry) A(Tyke) A(Spike)
+
+int main() {
+	NAMES(PRINT);
+}
+```
+
+> 类似这种（封装 & 复用）的思想在实际编码工作中很常用 ！
+
+#### 元编程
+
+- 类似上述利用宏定义宏展开编写源代码，配合预编译的方式也叫元编程（meta-programming）
+
+	- gcc 的预处理器也可以处理汇编代码
+
+	- c++ 中的模板元编程、Rust 中的 macros、...
+
+- 优点
+
+	1. 提供更为灵活的用法（X-macros）
+
+	2. 接近自然语言的写法
+
+- 缺点
+
+	破坏代码的可读性，在代码分析和补全方面增加困难度
+
+```c
+#define L (
+int main L) { puts L "Hello" ); }
+```
+
