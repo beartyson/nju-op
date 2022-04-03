@@ -2,9 +2,7 @@
 
 - https://liupj.top/dev-c-on-linux/
 
-#### 预编译（`#include`、`#define`、`#if`、`#else`、`#endif`、`#ifdef`、...）
-
-- #include 就是一种「复制粘贴」～
+#### 深入了解预编译过程中的「复制粘贴」
 
 ![image-20220402093422109](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220402093422109.png)
 
@@ -57,3 +55,52 @@ int main() {
 }
 ```
 
+- 知乎问题：如何搞垮一个 OJ ？
+
+```c
+#define TEN(X) X X X X X X X X X X
+#define A "aaaaaaaaaa"
+#define B TEN(A)
+#define C TEN(B)
+#define D TEN(C)
+#define E TEN(D)
+#define F TEN(E)
+#define G TEN(F)
+int main() {
+	puts(G);
+}
+```
+
+- 某些 Online Judge 平台不允许用户调用系统的 API，有没有什么 hack 的方法躲过 OJ 的关键字检测 ？
+
+```c
+#define A sys ## tem // ## 可以将其左右两侧的字符串连接起来
+int main() {
+	A("echo Hello\n");
+}
+```
+
+- 如何毁掉一个身边的同学 ？
+
+```c
+#define true (__LINE__ % 2 != 0)
+
+#include <stdio.h>
+
+int main() {
+  if (true) printf("%d\n", __LINE__);
+  if (true) printf("%d\n", __LINE__);
+  if (true) printf("%d\n", __LINE__);
+  if (true) printf("%d\n", __LINE__);
+  if (true) printf("%d\n", __LINE__);
+  if (true) printf("%d\n", __LINE__);
+  if (true) printf("%d\n", __LINE__);
+  if (true) printf("%d\n", __LINE__);
+  if (true) printf("%d\n", __LINE__);
+  if (true) printf("%d\n", __LINE__);
+  if (true) printf("%d\n", __LINE__);
+  if (true) printf("%d\n", __LINE__);
+  if (true) printf("%d\n", __LINE__);
+  if (true) printf("%d\n", __LINE__);
+}
+```
