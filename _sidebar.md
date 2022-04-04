@@ -3,3 +3,4 @@
 - [编译 & 链接](/docs/2.md)
 - [内存模型](/docs/3.md)
 - [main、argc、argv](/docs/4.md)
+- [C 语言的类型系统](/docs/5.md)
