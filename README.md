@@ -32,6 +32,14 @@
 
 - 再比如 [NES Emulator](https://www.emulator-zone.com/doc.php/nes/)，是一款可以模拟出[红白机](https://baike.baidu.com/item/%E7%BA%A2%E7%99%BD%E6%9C%BA/4443886)的软件，我们可以在模拟出的红白机上运行各种经典 NES 游戏，比如魂斗罗、超级马里奥、...
 
+#### 本课程的终极目标
+
+- 并不只是把实验内容做出来，更重要的是
+
+  - 让你理解「在一个程序被一步步（预处理、编译、汇编、链接、执行、完成）的整个过程中，你的计算机究竟都做了什么」
+
+  - 让计算机执行程序的过程，在我们的眼中不再是黑盒
+
 #### 本课程的实验内容（`P`rogramming `A`ssignment）
 
 - https://nju-projectn.github.io/ics-pa-gitbook/ics2021/
@@ -39,6 +47,14 @@
 > 制作一个功能完备的简化模拟器 NEMU（NJU EMUlator）
 
 ![image-20220331233854027](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220331233854027.png)
+
+- PA1：简易调试器、加法器
+
+- PA2：程序执行
+
+- PA3：cache 与 存储管理
+
+- PA4：异常 与 I/O
 
 #### Linux
 
