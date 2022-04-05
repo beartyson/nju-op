@@ -2,11 +2,18 @@
 
 - 课程网站：http://jyywiki.cn/ICS/2021/
 
-- teacher: 王慧妍@nju.edu.cn
+- teacher: 
 
-- student: 刘培杰@liupj.top
+  - 王慧妍 why@nju.edu.cn
+  - 蒋炎岩 jyy@nju.edu.cn
+  - 欧先飞 ouxianfei@smail.nju.edu.cn
+  - 屈道涵 whuqdh@126.com
 
-#### 理论课
+- student: 
+
+  - 刘培杰 lpj@liupj.top
+
+#### 理论课（我还没学完 ！！！）
 
 - 见：[中国大学MOOC](https://www.icourse163.org/)
 
@@ -18,7 +25,7 @@
 
 - [Linux 入门教程](https://nju-projectn.github.io/ics-pa-gitbook/ics2021/linux.html)
 
-#### 国外课程（强烈推荐）
+#### 国外课程（我还没学完 ！！！）
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
@@ -61,3 +68,15 @@
 #### 小结
 
 ![image-20220331233854027](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220331233854027.png)
+
+#### DO NOT ASK
+
+- 安装XXX错了怎么办 ？
+
+- Segmentation Fault 怎么办 ？
+
+#### 另外
+
+- 如果你感觉本实验异常困难，那么其实你需要加强 C/C++ 编程的训练
+
+- 越是独立完成，受到的训练就越好
