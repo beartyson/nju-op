@@ -29,19 +29,7 @@
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
-#### 什么是模拟器 ？
-
-![image-20220405155243564](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220405155243564.png)
-
-- 同理，模拟器也是一个程序，它的目标在于：
-
-- 用软件模拟出计算机硬件的一些功能（eg：内存、cache、程序计数器、...），以支持在其上层执行其它程序
-
-- 比如知名虚拟机软件 [virtualbox](https://www.virtualbox.org/) 和 [vmware](https://www.vmware.com/) 均是能够模拟出 pc 主机的软件，我们可以在模拟出的 pc 主机上运行其它操作系统
-
-- 再比如 [NES Emulator](https://www.emulator-zone.com/doc.php/nes/)，是一款可以模拟出[红白机](https://baike.baidu.com/item/%E7%BA%A2%E7%99%BD%E6%9C%BA/4443886)的软件，我们可以在模拟出的红白机上运行各种经典 NES 游戏，比如魂斗罗、超级马里奥、...
-
-#### 本课程的终极目标
+#### 本实验课的终极目标
 
 - 并不只是让你完成实验（做一个模拟器）
 
@@ -51,7 +39,23 @@
 
   - 让计算机执行程序的过程，在我们的眼中不再是黑盒
 
-#### 本课程的实验内容（`P`rogramming `A`ssignment）
+#### 什么是模拟器 ？
+
+- 支付宝是一个程序，它的目标在于：
+
+- 用软件模拟出 ATM 机的功能（eg：存款、取款、转帐、汇款、...）
+
+![image-20220405190312821](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220405190312821.png)
+
+- 同理，模拟器也是一个程序，它的目标在于：
+
+- 用软件模拟出计算机硬件的一些功能（eg：内存、cache、程序计数器、...），以支持在其上层执行其它程序
+
+- 比如知名虚拟机软件 [virtualbox](https://www.virtualbox.org/) 和 [vmware](https://www.vmware.com/) 均是能够模拟出 pc 主机的软件，我们可以在模拟出的 pc 主机上运行其它操作系统
+
+- 再比如 [NES Emulator](https://www.emulator-zone.com/doc.php/nes/)，是一款可以模拟出[红白机](https://baike.baidu.com/item/%E7%BA%A2%E7%99%BD%E6%9C%BA/4443886)的软件，我们可以在模拟出的红白机上运行各种经典 NES 游戏，比如魂斗罗、超级马里奥（Mario）、...
+
+#### 实验内容（`P`rogramming `A`ssignment）
 
 - https://nju-projectn.github.io/ics-pa-gitbook/ics2021/
 
