@@ -19,12 +19,6 @@
 
 - 搜索关键词「计算机系统基础、南京大学、袁春风」
 
-#### Linux 入门知识
-
-- [Linux 基本常识](https://linux.cn/article-6160-1.html)
-
-- [Linux 入门教程](https://nju-projectn.github.io/ics-pa-gitbook/ics2021/linux.html)
-
 #### 国外课程（我还没学完 ！！！）
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
