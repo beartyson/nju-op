@@ -1,5 +1,5 @@
 - [开篇](/)
-- [GNU/Linux 与 Shell脚本简介](/docs/0.md)
+- [GNU/Linux 与 Shell](/docs/0.md)
 - [预编译与宏展开](/docs/1.md)
 - [编译 & 链接](/docs/2.md)
 - [main 函数的参数](/docs/3.md)

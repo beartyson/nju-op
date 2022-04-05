@@ -75,6 +75,8 @@
 
 #### 另外
 
+![image-20220405200941047](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220405200941047.png)
+
 - 如果你感觉本实验异常困难，那么其实你需要加强 C/C++ 编程的训练
 
 - 越是独立完成，受到的训练就越好
