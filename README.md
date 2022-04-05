@@ -40,7 +40,7 @@
 
 #### The Shell Scripting Language
 
-```sh
+```bash
 #!/bin/sh
 
 a=1
