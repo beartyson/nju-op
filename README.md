@@ -6,7 +6,13 @@
 
 - student: 刘培杰@liupj.top
 
-#### 先修课
+#### 理论课
+
+- 见：[中国大学MOOC](https://www.icourse163.org/)
+
+- 搜索关键词「计算机系统基础、南京大学、袁春风」
+
+#### 实验先修课
 
 - [Linux 基本常识](https://linux.cn/article-6160-1.html)
 
