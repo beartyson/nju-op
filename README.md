@@ -55,13 +55,15 @@
 
 > 基于 [riscv32](https://nju-projectn.github.io/ics-pa-gitbook/ics2021/#%E5%AE%98%E6%96%B9%E6%89%8B%E5%86%8C) 指令集，制作一个功能完备但简化了的模拟器 NEMU（NJU EMUlator）
 
-- PA1：简易调试器、加法器
+- [x] PA0：一些预备知识和准备工作
 
-- PA2：程序执行
+- [ ] PA1：简易调试器、加法器
 
-- PA3：cache 与 存储管理
+- [ ] PA2：程序执行
 
-- PA4：异常 与 I/O
+- [ ] PA3：cache 与 存储管理
+
+- [ ] PA4：异常 与 I/O
 
 #### 小结
 
