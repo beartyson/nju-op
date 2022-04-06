@@ -1,7 +1,7 @@
 - [开篇](/)
 - [GNU/Linux 与 Shell](/docs/0.md)
 - [预编译与宏展开](/docs/1.md)
-- [编译](/docs/2-1.md)
+- [编译、汇编、链接](/docs/2.md)
 - [为什么 C 函数不能重名，而 C++ 函数可以重名 ？](/docs/2-2.md)
 - [main 函数的参数](/docs/3.md)
 - [内存模型](/docs/4.md)
