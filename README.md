@@ -49,7 +49,7 @@
 
 - 比如知名虚拟机软件 [virtualbox](https://www.virtualbox.org/) 和 [vmware](https://www.vmware.com/) 均是能够模拟出 pc 主机的软件，我们可以在模拟出的 pc 主机上运行其它操作系统
 
-- 再比如 [NES Emulator](https://www.emulator-zone.com/doc.php/nes/)，是一款可以模拟出[红白机](https://baike.baidu.com/item/%E7%BA%A2%E7%99%BD%E6%9C%BA/4443886)的软件，我们可以在模拟出的红白机上运行各种经典 NES 游戏，比如魂斗罗、超级马里奥（Mario）、...
+- 再比如 [NES Emulator](https://www.emulator-zone.com/doc.php/nes/)，是一款可以模拟出[红白机](https://baike.baidu.com/item/%E7%BA%A2%E7%99%BD%E6%9C%BA/4443886)的软件，我们可以在模拟出的红白机上运行各种[经典 NES 游戏](https://github.com/Brannua/nes-games)，比如魂斗罗、超级马里奥（Mario）、...
 
 #### 实验内容（`P`rogramming `A`ssignment）
 
