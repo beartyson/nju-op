@@ -1,5 +1,7 @@
 ## The Missing Course of Your Computer Science Education（2021秋）
 
+![image-20220410164848779](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220410164848779.png)
+
 - 课程网站：http://jyywiki.cn/ICS/2021/
 
 - teacher: 
