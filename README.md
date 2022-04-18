@@ -4,16 +4,9 @@
 
 - 课程网站：http://jyywiki.cn/ICS/2021/
 
-- teacher: 
+- teacher: 王慧妍 why@nju.edu.cn
 
-  - 王慧妍 why@nju.edu.cn
-  - 蒋炎岩 jyy@nju.edu.cn
-  - 欧先飞 ouxianfei@smail.nju.edu.cn
-  - 屈道涵 whuqdh@126.com
-
-- student: 
-
-  - 刘培杰 lpj@liupj.top
+- student: 刘培杰 lpj@liupj.top
 
 #### 理论课（我还没学完 ！！！）
 
