@@ -3,8 +3,6 @@
 
 - 越是**独立完成**，受到的训练就越好
 
-- 如果你感觉本实验异常困难，那么其实你需要加强 C/C++ 编程的训练
-
 - 禁用百度，禁用中文 => Add `127.0.0.1 www.baidu.com`
 
   - For Unix => /etc/hosts
@@ -14,6 +12,8 @@
   - [github](https://github.com/), [awesome-of-github](https://github.com/search?q=awesome)
   - [stackoverflow](https://stackoverflow.com/)
   - ...
+
+- 如果你感觉本实验异常困难，那么其实你需要加强编程的训练（eg：C/C++）
 
 #### 实验进度
 
@@ -36,13 +36,13 @@
 
 - 让计算机执行程序的过程，在我们的眼中不再是黑盒
 
-![image-20220331233854027](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220331233854027.png)
+![image-20220510122321626](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220510122321626.png)
 
 #### 什么是模拟器 ？
 
 - 支付宝是一个程序，它的目标在于：用软件模拟出 ATM 机的功能（eg：存款、取款、转帐、汇款、...）
 
-![image-20220405190312821](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220405190312821.png)
+  <img src="https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220405190312821.png" width=400 />
 
 - 同理，模拟器也是一个程序，它的目标在于：用软件模拟出计算机硬件的一些功能（eg：内存、cache、程序计数器、...），以支持在其上层执行其它程序
 
