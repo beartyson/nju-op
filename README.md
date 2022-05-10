@@ -5,15 +5,19 @@
 
 - 越是**独立完成**，受到的训练就越好
 
+- 拥抱开源社区
+  - [github](https://github.com/)
+  - [awesome-of-github](https://github.com/search?q=awesome)
+
 - 禁用百度，禁用中文 => Add `127.0.0.1 www.baidu.com`
 
   - For Unix => /etc/hosts
   - For Windows => C:\Windows\System32\drivers\etc\hosts
 
-- 拥抱开源社区
-  - [github](https://github.com/), [awesome-of-github](https://github.com/search?q=awesome)
+- 尝试并坚持查阅英文资料
+  - [wikipedia](http://en.wikipedia.org/)
   - [stackoverflow](https://stackoverflow.com/)
-  - ...
+  - [google](https://www.google.com/)
 
 - 如果你感觉本实验异常困难，那么其实你需要加强编程的训练（eg：C/C++）
 
