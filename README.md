@@ -5,9 +5,7 @@
 
 - 越是**独立完成**，受到的训练就越好
 
-- 拥抱开源社区
-  - [github](https://github.com/)
-  - [awesome-of-github](https://github.com/search?q=awesome)
+- 重视 RTFM、RTFSC、STFW
 
 - 禁用百度，禁用中文 => Add `127.0.0.1 www.baidu.com`
 
@@ -18,6 +16,10 @@
   - [wikipedia](http://en.wikipedia.org/)
   - [stackoverflow](https://stackoverflow.com/)
   - [google](https://www.google.com/)
+
+- 拥抱开源社区
+  - [github](https://github.com/)
+  - [awesome-of-github](https://github.com/search?q=awesome)
 
 - 如果你感觉本实验异常困难，那么其实你需要加强编程的训练（eg：C/C++）
 
